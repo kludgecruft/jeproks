@@ -1,4 +1,4 @@
-# stooge
+# stooge (S2DGE)
 
 ## A simple 2D game engine
 Written in C++ and utilizes win32 APIs for windowing and user input, <br>
